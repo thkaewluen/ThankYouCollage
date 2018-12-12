@@ -26,7 +26,7 @@ void draw() {
   imageMode(CENTER);
   image(V,350,300);
   image(P,350,430,190,120);
-  image(L,random(width),random(height),100,90);
+  image(L,random(width),random(height),120,100);
   image(F,mouseX,mouseY,200,200);
   
   fill(255);
