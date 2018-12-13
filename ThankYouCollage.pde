@@ -1,3 +1,9 @@
+/* @pjs preload="https://ih0.redbubble.net/image.420760296.1695/ap,550x550,16x12,1,transparent,t.u1.png"; =/
+/* @pjs preload="https://thumbs.dreamstime.com/t/le-texte-tir%C3%A9-par-la-main-de-vecteur-de-vintage-vous-remercient-sur-le-fond-blanc-illustration-eps-de-lettrage-de-calligraphie-89827132.jpg"; =/
+/* @pjs preload="https://www.habitsforwellbeing.com/wp-content/uploads/2014/04/heart1.png"; =/
+/* @pjs preload="https://pixy.org/src/477/4770656.png"; =/
+
+
 PImage  F;
 PImage V;
 PImage P;
